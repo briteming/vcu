@@ -1,4 +1,4 @@
-baseurl = "https://vurt.co.uk/"
+baseurl = "/"
 languageCode = "en-gb"
 title = "vurt"
 theme = "ghostwriter"
